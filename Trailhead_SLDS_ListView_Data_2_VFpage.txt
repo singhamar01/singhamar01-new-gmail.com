@@ -12,8 +12,14 @@
 </apex:remoteObjects>  
 
 <body>    
+
   <!-- Moving changes throug the command line interface to my git repository 24th sept 2015 -->
+  
   <!-- REQUIRED SLDS WRAPPER -->
+
+
+  <!-- REQUIRED SLDS WRAPPER  -sdded->
+
   <div class="slds">    
 
     <!-- MASTHEAD -->
